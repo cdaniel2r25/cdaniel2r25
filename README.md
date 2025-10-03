@@ -38,4 +38,4 @@ I enjoy designing **scalable architectures**, writing **clean and efficient code
 
 - [LinkedIn](https://www.linkedin.com/in/carlos-daniel-rodriguez-rodriguez-187a3a177/)
 - [GitHub](https://github.com/cdaniel2r25)
-- *(Optional)* Email: cdaniel2r.dr@gmail.com
+- Email: cdaniel2r.dr@gmail.com
